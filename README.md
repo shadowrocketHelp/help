@@ -12,6 +12,3 @@
 
 ## 广告
 
-【1】[支付宝微信个人收款自动监听发货](https://github.com/wxinpay/wxinpay)
-
-【2】[短信轰炸机免费测试](http://www.wxinpay.com)
