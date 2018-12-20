@@ -10,5 +10,5 @@
 
 【4】[mac使用教程点我](https://github.com/shadowrocketHelp/help/wiki/mac%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
-## 广告
+
 
