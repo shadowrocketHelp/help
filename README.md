@@ -21,4 +21,4 @@
 
 【1】[苹果商店appstore账号分享](https://github.com/shadowrocketHelp/help/wiki/%E5%9B%BD%E5%A4%96-appstore-id-%E8%B4%A6%E5%8F%B7%E5%88%86%E4%BA%AB)
 
-【2】[优秀付费节推荐](https://github.com/shadowrocketHelp/help/wiki/%E3%80%90%E4%BC%98%E7%A7%80%E4%BB%98%E8%B4%B9%E8%8A%82%E7%82%B9%E3%80%91)
+【2】[优秀付费订阅节点推荐](https://github.com/shadowrocketHelp/help/wiki/%E3%80%90%E4%BC%98%E7%A7%80%E4%BB%98%E8%B4%B9%E8%8A%82%E7%82%B9%E3%80%91)
