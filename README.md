@@ -21,8 +21,4 @@
 
 【1】[苹果商店appstore账号分享](https://github.com/shadowrocketHelp/help/wiki/%E5%9B%BD%E5%A4%96-appstore-id-%E8%B4%A6%E5%8F%B7%E5%88%86%E4%BA%AB)
 
-【2】[市面上的所有节点延迟说明，若觉得你的延迟不正确请务必点这里](https://github.com/shadowrocketHelp/help/wiki/%E8%8A%82%E7%82%B9%E5%BB%B6%E8%BF%9F%E8%AF%B4%E6%98%8E)
-
-## 广告也精明
-
-【1】[广告位招商](https://github.com/shadowrocketHelp/help/wiki)
+【2】[优秀付费节推荐](https://github.com/shadowrocketHelp/help/wiki/%E3%80%90%E4%BC%98%E7%A7%80%E4%BB%98%E8%B4%B9%E8%8A%82%E7%82%B9%E3%80%91)
