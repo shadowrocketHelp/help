@@ -3,15 +3,15 @@
 看完你可以获得什么？
 你可能会体验到你人生中第一次浏览国际网络的畅快之感，不语言表，直接开始吧！
 
-## SSR节点使用教程，很简单，仔细看。
+## SS/SSR/V2ray/Trojan 节点订阅使用教程，很简单，仔细看。
 
-【1】[1.1 SSR iOS苹果使用教程 点我](https://github.com/shadowrocketHelp/help/wiki/1.1-SSR-iOS%E8%8B%B9%E6%9E%9C%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+【1】[1.1 iOS苹果 节点订阅使用教程 点我](https://github.com/shadowrocketHelp/help/wiki/1.1-iOS%E8%8B%B9%E6%9E%9C-%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
-【2】[1.2 SSR Android安卓使用教程 点我](https://github.com/shadowrocketHelp/help/wiki/1.2-SSR-Android%E5%AE%89%E5%8D%93%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+【2】[1.2 Android安卓 节点订阅使用教程 点我](https://github.com/shadowrocketHelp/help/wiki/1.2-Android%E5%AE%89%E5%8D%93-%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
-【3】[1.3 SSR Windows电脑使用教程 点我](https://github.com/shadowrocketHelp/help/wiki/1.3-SSR-Windows%E7%94%B5%E8%84%91%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+【3】[1.3 Windows电脑 节点订阅使用教程 点我](https://github.com/shadowrocketHelp/help/wiki/1.3-Windows-%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
-【4】[1.4 SSR Mac苹果电脑使用教程 点我](https://github.com/shadowrocketHelp/help/wiki/1.4-SSR-Mac%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+【4】[1.4 Mac电脑 节点订阅使用教程 点我](https://github.com/shadowrocketHelp/help/wiki/1.4-Mac%E7%94%B5%E8%84%91-%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
 【5】[---重要---任何问题先点我---任何不明白点我---重要---](https://github.com/shadowrocketHelp/help/wiki/%E9%81%87%E5%88%B0%E9%97%AE%E9%A2%98%EF%BC%8C%E5%85%88%E7%82%B9%E6%88%91)
 
