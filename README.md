@@ -1,3 +1,5 @@
+# 苹果美区账号APPLE ID 免费账号共享| Shadowsocks
+
 写在前面：本分享学习教程，存在意义是给经常需要外网 查阅资料/学术研究/使用ChatGPT/Gemini/Instagram追星/玩虚拟资产BTCETH币安OKX交易所/外贸购物 等正常使用人士提供一个教程教学平台，多有不足还望Issues指出，喜欢请一键2连，Star+fork
 
 看完你可以获得什么？
